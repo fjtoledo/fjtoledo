@@ -1,6 +1,6 @@
 Hello!!!
 My name is Fernando, I am mechatronic enginner.
-I like to study C# and Python and have interess to colaborate in Machine Learning.
+I like to study C# and Python and have interess to colaborate in Machine Learning projects.
 
 fernandojose19990825@gmail.com
 
